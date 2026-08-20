@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.26.2",
+  "fabric_version": "0.14.21",
+  "files": [
+    {
+      "path": "mods/fabric-api-0.91.2+1.26.2.jar",
+      "url": "https://raw.githubusercontent.com/K4H1N388/kahpe-client/main/mods/fabric-api-0.91.2%2B1.26.2.jar",
+      "sha256": "7ad0d5d7f4a6c4f2f312c3a8f6c3d9c1de2d4a2eb0ce7a58fb24d58d3b728b2d",
+      "size": 3145728,
+      "optional": false
+    },
+    {
+      "path": "mods/OptiFine_1.26.2_HD_U_I1.jar",
+      "url": "https://raw.githubusercontent.com/K4H1N388/kahpe-client/main/mods/OptiFine_1.26.2_HD_U_I1.jar",
+      "sha256": "d3c7f42d64f3069d713c6a4f7788ff6660f0d1d6d4efeb11fae8b4179f5aa9e1",
+      "size": 5242880,
+      "optional": false
+    },
+    {
+      "path": "resourcepacks/CustomTextures.zip",
+      "url": "https://raw.githubusercontent.com/K4H1N388/kahpe-client/main/resourcepacks/CustomTextures.zip",
+      "sha256": "3f8461bd0fd72e7f9f627d8d2f2eb3c7f95c6c0f14eb29d7ef0cdf49f881d851",
+      "size": 10485760,
+      "optional": false
+    },
+    {
+      "path": "config/fabric-loader.properties",
+      "url": "https://raw.githubusercontent.com/K4H1N388/kahpe-client/main/config/fabric-loader.properties",
+      "sha256": "4aa8e1db4fce6bb5a3d2e9f19e1a86c8897a4647d76de3fe1eb5c0c51458a7d1",
+      "size": 1024,
+      "optional": false
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.26.2-0.11.2.jar",
+      "url": "https://raw.githubusercontent.com/K4H1N388/kahpe-client/main/mods/lithium-fabric-mc1.26.2-0.11.2.jar",
+      "sha256": "9c2f22fe1d3177f196397667e7b9f8d6bb64b69fd00c1d09d4a7bd1d9f247321",
+      "size": 2097152,
+      "optional": false
+    }
+  ]
+}
